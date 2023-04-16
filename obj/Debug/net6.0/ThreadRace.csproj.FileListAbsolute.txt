@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\bin\Debug\net6.0\ThreadRace.exe
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\bin\Debug\net6.0\ThreadRace.deps.json
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\bin\Debug\net6.0\ThreadRace.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\bin\Debug\net6.0\ThreadRace.dll
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\bin\Debug\net6.0\ThreadRace.pdb
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.dll
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\refint\ThreadRace.dll
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.pdb
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ThreadRace.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\ThreadRace\ThreadRace\obj\Debug\net6.0\ref\ThreadRace.dll
